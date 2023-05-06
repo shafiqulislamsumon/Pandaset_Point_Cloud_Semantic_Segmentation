@@ -1,0 +1,181 @@
+
+####### Epoch : 0
+Validation per class iou:
+Car : 74.96%
+Bus : 0.00%
+Ground : 38.79%
+Road : 88.38%
+Pickup Truck : 1.65%
+Motorcycle : 0.00%
+Train : 0.00%
+Building : 35.97%
+Trolley : nan%
+Rolling Containers : 0.00%
+Other Static Object : 22.62%
+Current val miou is 26.236 while the best val miou is 26.236
+
+####### Epoch : 1
+Validation per class iou:
+Car : 79.88%
+Bus : 0.00%
+Ground : 61.80%
+Road : 88.28%
+Pickup Truck : 5.57%
+Motorcycle : 0.00%
+Train : nan%
+Building : 48.92%
+Trolley : nan%
+Rolling Containers : 0.00%
+Other Static Object : 30.01%
+Current val miou is 34.940 while the best val miou is 34.940
+
+####### Epoch : 2
+Validation per class iou:
+Car : 80.32%
+Bus : 0.00%
+Ground : 67.73%
+Road : 89.70%
+Pickup Truck : 2.58%
+Motorcycle : 0.00%
+Train : 0.00%
+Building : 50.33%
+Trolley : nan%
+Rolling Containers : 0.00%
+Other Static Object : 30.49%
+Current val miou is 32.114 while the best val miou is 34.940
+
+####### Epoch : 3
+Validation per class iou:
+Car : 80.75%
+Bus : 0.00%
+Ground : 63.42%
+Road : 89.69%
+Pickup Truck : 20.13%
+Motorcycle : 4.56%
+Train : 0.00%
+Building : 51.98%
+Trolley : nan%
+Rolling Containers : 0.00%
+Other Static Object : 26.95%
+Current val miou is 33.748 while the best val miou is 34.940
+
+####### Epoch : 4
+Validation per class iou:
+Car : 84.69%
+Bus : 0.00%
+Ground : 57.61%
+Road : 90.04%
+Pickup Truck : 32.63%
+Motorcycle : 0.00%
+Train : nan%
+Building : 44.95%
+Trolley : nan%
+Rolling Containers : 0.00%
+Other Static Object : 22.40%
+Current val miou is 36.925 while the best val miou is 36.925
+
+####### Epoch : 5
+Validation per class iou:
+Car : 84.59%
+Bus : 0.00%
+Ground : 50.87%
+Road : 89.98%
+Pickup Truck : 13.81%
+Motorcycle : 6.83%
+Train : 0.00%
+Building : 48.55%
+Trolley : nan%
+Rolling Containers : 0.00%
+Other Static Object : 29.09%
+Current val miou is 32.372 while the best val miou is 36.925
+
+####### Epoch : 6
+Validation per class iou:
+Car : 87.63%
+Bus : 0.00%
+Ground : 63.45%
+Road : 91.01%
+Pickup Truck : 48.12%
+Motorcycle : 20.97%
+Train : 0.00%
+Building : 50.42%
+Trolley : nan%
+Rolling Containers : 0.00%
+Other Static Object : 40.17%
+Current val miou is 40.177 while the best val miou is 40.177
+
+####### Epoch : 7
+Validation per class iou:
+Car : 86.42%
+Bus : 0.00%
+Ground : 71.77%
+Road : 91.62%
+Pickup Truck : 41.03%
+Motorcycle : 18.87%
+Train : 0.00%
+Building : 64.74%
+Trolley : nan%
+Rolling Containers : 0.00%
+Other Static Object : 52.16%
+Current val miou is 42.661 while the best val miou is 42.661
+
+####### Epoch : 8
+Validation per class iou:
+Car : 86.39%
+Bus : 0.00%
+Ground : 72.65%
+Road : 92.37%
+Pickup Truck : 53.68%
+Motorcycle : 23.01%
+Train : 0.00%
+Building : 66.14%
+Trolley : nan%
+Rolling Containers : 0.00%
+Other Static Object : 51.29%
+Current val miou is 44.554 while the best val miou is 44.554
+
+####### Epoch : 9
+Validation per class iou:
+Car : 90.15%
+Bus : 0.00%
+Ground : 71.29%
+Road : 92.28%
+Pickup Truck : 57.98%
+Motorcycle : 28.02%
+Train : 0.00%
+Building : 64.78%
+Trolley : nan%
+Rolling Containers : 0.00%
+Other Static Object : 54.13%
+Current val miou is 45.863 while the best val miou is 45.863
+
+####### Epoch : 10
+Validation per class iou:
+Car : 90.06%
+Bus : 0.00%
+Ground : 73.48%
+Road : 92.65%
+Pickup Truck : 61.43%
+Motorcycle : 27.43%
+Train : 0.00%
+Building : 68.17%
+Trolley : nan%
+Rolling Containers : 0.00%
+Other Static Object : 54.91%
+Current val miou is 46.812 while the best val miou is 46.812
+
+####### Epoch : 11
+Validation per class iou:
+Car : 90.28%
+Bus : 0.00%
+Ground : 73.73%
+Road : 92.88%
+Pickup Truck : 61.24%
+Motorcycle : 25.91%
+Train : 0.00%
+Building : 67.71%
+Trolley : nan%
+Rolling Containers : 0.00%
+Other Static Object : 55.45%
+Current val miou is 46.720 while the best val miou is 46.812
+

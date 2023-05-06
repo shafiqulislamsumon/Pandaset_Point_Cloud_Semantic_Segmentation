@@ -1,0 +1,19 @@
+####### Test Report : 0
+Test per class iou: 
+Car : 90.62%
+Bus : 75.99%
+Ground : 74.08%
+Road : 94.07%
+Pickup Truck : 53.68%
+Motorcycle : 32.03%
+Train : 0.00%
+Building : 71.49%
+Trolley : nan%
+Rolling Containers : 0.00%
+Other Static Object : 44.20%
+Current test miou is 53.616 while the best test miou is 53.616
+
+DATALOADER:0 TEST RESULTS
+{'test/acc': 0.45064592361450195,
+ 'test/best_miou': 0.5361569031941371,
+ 'test/mIoU': 0.5361569031941371}
