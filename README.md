@@ -1,0 +1,2 @@
+# Pandaset_Point_Cloud_Semantic_Segmentation
+PandaSet Semantic Segmentation using 2DPASS model
